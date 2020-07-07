@@ -210,4 +210,4 @@ class Gaussian():
         return x, y
 </code></pre>
 
-# Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
+## Solution of the exercise and adaptation as a Repository: Andrés R. Bucheli.
