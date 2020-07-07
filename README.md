@@ -4,6 +4,6 @@
 
 Coding a class in Python, using mathematical libraries and graphic libraries.
 
-This exercise includes a file called 'numbers.txt', which you can see into the folder titled 3.OOP_code_gaussian_class. The 'numbers.txt' file is read in by the read_data_file() 
+This exercise includes a file called 'numbers.txt', which you need to save an access properly when you run the code. The 'numbers.txt' file is read in by the read_data_file() 
 method. 
 
